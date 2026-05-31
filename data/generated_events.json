@@ -1,0 +1,54 @@
+[
+  {
+    "event_id": "d455fc9e-b938-4ae2-94df-9c20a1fa8e21",
+    "store_id": "STORE_BLR_002",
+    "camera_id": "CAM_ENTRY_01",
+    "visitor_id": "VIS_1",
+    "event_type": "ENTRY",
+    "timestamp": "2026-05-30T05:56:39.849440",
+    "zone_id": null,
+    "dwell_ms": 0,
+    "is_staff": false,
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  {
+    "event_id": "6a1af727-2173-474f-a025-ccad0727cf68",
+    "store_id": "STORE_BLR_002",
+    "camera_id": "CAM_ENTRY_01",
+    "visitor_id": "VIS_1",
+    "event_type": "ZONE_ENTER",
+    "timestamp": "2026-05-30T05:56:39.849440",
+    "zone_id": "SKINCARE",
+    "dwell_ms": 0,
+    "is_staff": false,
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  {
+    "event_id": "f900bf87-bb76-416d-8179-4cd8f5161a2b",
+    "store_id": "STORE_BLR_002",
+    "camera_id": "CAM_ENTRY_01",
+    "visitor_id": "VIS_1",
+    "event_type": "ZONE_DWELL",
+    "timestamp": "2026-05-30T05:56:39.849440",
+    "zone_id": "SKINCARE",
+    "dwell_ms": 30000,
+    "is_staff": false,
+    "confidence": 0.9,
+    "metadata": {}
+  },
+  {
+    "event_id": "f9c0fa2b-a475-45a4-bf87-6e3cafd53cb8",
+    "store_id": "STORE_BLR_002",
+    "camera_id": "CAM_ENTRY_01",
+    "visitor_id": "VIS_1",
+    "event_type": "EXIT",
+    "timestamp": "2026-05-30T05:56:39.849440",
+    "zone_id": null,
+    "dwell_ms": 0,
+    "is_staff": false,
+    "confidence": 0.9,
+    "metadata": {}
+  }
+]
